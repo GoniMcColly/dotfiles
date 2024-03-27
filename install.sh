@@ -17,7 +17,8 @@ sudo mkdir -p /etc/apt/keyrings
 sudo wget -qO /etc/apt/keyrings/teams-for-linux.asc https://repo.teamsforlinux.de/teams-for-linux.asc
 echo "deb [signed-by=/etc/apt/keyrings/teams-for-linux.asc arch=$(dpkg --print-architecture)] https://repo.teamsforlinux.de/debian/ stable main" | sudo tee /etc/apt/sources.list.d/teams-for-linux-packages.list
 
-sudo apt update
+sudo apt-get update
+sudo apt-get upgrade
 
 # Install 
 sudo apt install -y  build-essential curl libffi-dev libffi8 libgmp-dev libgmp10 libncurses-dev libncurses5 libtinfo5 vim fzf lm-sensors fonts-font-awesome xfce4-terminal net-tools htop bat tree && sudo apt install -y  regolith-desktop regolith-session-sway regolith-look-gruvbox codium teams-for-linux

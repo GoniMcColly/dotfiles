@@ -1,0 +1,60 @@
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install locales
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install busybox
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install zstd
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install initramfs-tools
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove -o APT::Install-Recommends=true install linux-image-amd64
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install pciutils
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install usbutils
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install wireless-tools
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install wpasupplicant
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install dosfstools
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install keyboard-configuration
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install console-setup
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q --no-install-recommends -y -o DPkg::options=--force-confnew upgrade --with-new-pkgs
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install laptop-detect
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install discover
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove -o APT::Install-Recommends=false install installation-report
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove -o APT::Install-Recommends=false install popularity-contest
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y -o APT::Install-Recommends=true -o APT::Get::AutomaticRemove=true -o Acquire::Retries=3 install task-gnome-desktop task-laptop netcat-traditional ucf libnss-systemd lsof bash-completion krb5-locales dbus libpam-systemd perl bind9-dnsutils debian-faq wamerican media-types file systemd-timesyncd manpages bind9-host ncurses-term python3-reportbug gettext-base reportbug xz-utils inetutils-telnet man-db mime-support ca-certificates groff-base traceroute apt-listchanges openssh-client liblockfile-bin bzip2 wget doc-debian task-desktop task-english
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install grub-common
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove install grub-efi-amd64
+Commandline: apt-get -o APT::Status-Fd=4 -o APT::Keep-Fds::=5 -o APT::Keep-Fds::=6 -q -y --no-remove -o APT::Install-Recommends=true install amd64-microcode
+Commandline: apt install regolith-desktop regolith-session-sway regolith-look-gruvbox
+Commandline: apt install teams-for-linux
+Commandline: apt install codium codium-insiders
+Commandline: apt install curl
+Commandline: apt install build-essential curl libffi-dev libffi8 libgmp-dev libgmp10 libncurses-dev libncurses5 libtinfo5
+Commandline: apt install fzf
+Commandline: apt install vim
+Commandline: apt install git
+Commandline: apt upgrade
+Commandline: apt install lm-sensors
+Commandline: apt install fonts-font-awesome
+Commandline: apt install regolith-look-nord
+Commandline: apt install htop
+Commandline: apt install flameshot
+Commandline: apt install xfce4-terminal
+Commandline: apt install meson gobject-introspection
+Commandline: apt install gdm3 policykit-1 libadwaita-1-dev libglib2.0-dev python-gi-dev gettext
+Commandline: apt install flatpak
+Commandline: apt remove flatpak
+Commandline: apt install flatpak
+Commandline: apt install python3-pip
+Commandline: apt install pipx
+Commandline: apt install imagemagick
+Commandline: apt install dunst
+Commandline: apt remove dunst
+Commandline: apt autoremove
+Commandline: apt install regolith-desktop regolith-session-sway
+Commandline: apt install bat
+Commandline: apt install tree
+Commandline: apt upgrade
+Commandline: apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils
+Commandline: apt install virt-manager
+Commandline: apt --fix-broken install
+Commandline: apt install ./balena-etcher_1.19.5_amd64.deb
+Commandline: apt-get upgrade
+Commandline: apt install gparted
+Commandline: apt upgrade
+Commandline: apt install --reinstall gparted
+Commandline: apt install net-tools

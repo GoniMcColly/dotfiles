@@ -1,0 +1,328 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Vorlagen" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex4/task1/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="66" column="5" selection-start-line="6" selection-end-line="66" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aufgabe1/test/ch/ost/oop/ex4/task1/test/LinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex4/task1/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1713440744828" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="18" lastUsed="1713956570559" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Aufgabe1/test/ch/ost/oop/ex4/task1/test/LinkedListTest.java" />
+      <option value="$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex4/task2/ArrayList.java" />
+      <option value="$PROJECT_DIR$/Aufgabe2/test/ch/ost/oop/ex4/task2/test/ArrayListTest.java" />
+      <option value="$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex4/task1/LinkedList.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="18" lastUsage="1713956570559" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1/src/ch/ost/oop/ex4/task1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe1/test/ch/ost/oop/ex4/task1/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2/src/ch/ost/oop/ex4/task2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week4/Vorlagen/Aufgabe2/test/ch/ost/oop/ex4/task2/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.LinkedListTest" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArrayListTest - 2024.04.18 at 14h 04m 56s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest - 2024.04.18 at 14h 05m 36s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest - 2024.04.18 at 14h 08m 02s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArrayListTest - 2024.04.18 at 14h 14m 17s.xml">
+      <configuration name="ArrayListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2024.04.19 at 15h 31m 55s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2024.04.19 at 15h 33m 21s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2024.04.19 at 15h 33m 41s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2024.04.19 at 15h 33m 53s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2024.04.19 at 15h 37m 18s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LinkedListTest - 2024.04.24 at 13h 02m 58s.xml">
+      <configuration name="LinkedListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16563000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17929688" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3299766" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32979727" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.32979727" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3299766" left="0.17929688" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3469" y="695" key="FileChooserDialogImpl.ideScale=175" timestamp="1713956630651">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3469" y="695" key="FileChooserDialogImpl.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713956630651" />
+    <state width="3696" height="630" key="GridCell.Tab.0.bottom.ideScale=175" timestamp="1713956631712">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.bottom.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713956631712" />
+    <state width="3696" height="630" key="GridCell.Tab.0.center.ideScale=175" timestamp="1713956631712">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.center.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713956631712" />
+    <state width="3696" height="630" key="GridCell.Tab.0.left.ideScale=175" timestamp="1713956631712">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.left.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713956631712" />
+    <state width="3696" height="630" key="GridCell.Tab.0.right.ideScale=175" timestamp="1713956631712">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.right.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713956631712" />
+    <state width="1765" height="625" key="GridCell.Tab.1.bottom.ideScale=175" timestamp="1713534002981">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1765" height="625" key="GridCell.Tab.1.bottom.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713534002981" />
+    <state width="1765" height="625" key="GridCell.Tab.1.center.ideScale=175" timestamp="1713534002981">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1765" height="625" key="GridCell.Tab.1.center.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713534002981" />
+    <state width="1765" height="625" key="GridCell.Tab.1.left.ideScale=175" timestamp="1713534002981">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1765" height="625" key="GridCell.Tab.1.left.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713534002981" />
+    <state width="1765" height="625" key="GridCell.Tab.1.right.ideScale=175" timestamp="1713534002981">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1765" height="625" key="GridCell.Tab.1.right.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713534002981" />
+    <state x="3341" y="742" key="SettingsEditor.ideScale=175" timestamp="1713532402269">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3341" y="742" key="SettingsEditor.ideScale=175/0.0.1920.1080/1920.0.3840.2160@0.0.1920.1080" timestamp="1713532402269" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Aufgabe2/test/ch/ost/oop/ex4/task2/test/ArrayListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex4/task2/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#1825#1826#0" expanded="true" />
+            <element signature="e#1863#1864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex4/task2/IArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex4/task1/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe1/test/ch/ost/oop/ex4/task1/test/LinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex4/task1/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="66" column="5" selection-start-line="6" selection-end-line="66" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,417 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Vorlagen" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex7/task2/SortedLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1083">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+              <folding>
+                <element signature="e#1149#1150#0" expanded="true" />
+                <element signature="e#1580#1581#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aufgabe2/test/ch/ost/oop/ex7/task2/SortedLinkedListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex7/task2/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1713472804246" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="16" lastUsed="1713901769656" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Aufgabe1/test/ch/ost/oop/ex7/task1/BinarySearchTest.java" />
+      <option value="$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex7/task1/BinarySearch.java" />
+      <option value="$PROJECT_DIR$/Aufgabe3/src/ch/ost/oop/ex7/task3/OptimizedBubbleSort.java" />
+      <option value="$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex7/task2/SortedLinkedList.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="16" lastUsage="1713901769656" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe1/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe1/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe1/test/ch/ost/oop/ex7/task1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2/src/ch/ost/oop/ex7/task2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe2/test/ch/ost/oop/ex7/task2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3/src/ch/ost/oop/ex7/task3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorlagen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/mccolly/git/oop2/Week7/Vorlagen/Aufgabe3/test/ch/ost/oop/ex7/task3}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 21h 53m 18s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 21h 54m 10s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 21h 55m 18s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 15m 11s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 15m 24s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 16m 12s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 18m 25s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 21m 05s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 23m 37s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortedLinkedListTest - 2024.04.23 at 22h 25m 55s.xml">
+      <configuration name="SortedLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12147000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15507813" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3299766" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.3299766" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.3299766" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3299766" left="0.15507813" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="325" key="FileChooserDialogImpl.ideScale=110" timestamp="1713520443869">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="325" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713520443869" />
+    <state x="3469" y="695" key="FileChooserDialogImpl.ideScale=175" timestamp="1713903993664">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3469" y="695" key="FileChooserDialogImpl.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903993664" />
+    <state width="2407" height="625" key="GridCell.Tab.0.bottom.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.0.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.0.bottom.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.bottom.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.0.center.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.0.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.0.center.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.center.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.0.left.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.0.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.0.left.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.left.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.0.right.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.0.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.0.right.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.0.right.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.1.bottom.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.1.bottom.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.1.bottom.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.1.bottom.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.1.center.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.1.center.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.1.center.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.1.center.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.1.left.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.1.left.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.1.left.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.1.left.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state width="2407" height="625" key="GridCell.Tab.1.right.ideScale=110" timestamp="1713536371687">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="2407" height="625" key="GridCell.Tab.1.right.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536371687" />
+    <state width="3696" height="630" key="GridCell.Tab.1.right.ideScale=175" timestamp="1713903995028">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state width="3696" height="630" key="GridCell.Tab.1.right.ideScale=175/0.0.1920.1080/1920.0.3840.2160@1920.0.3840.2160" timestamp="1713903995028" />
+    <state x="95" y="0" key="SettingsEditor.ideScale=110" timestamp="1713536212171">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="95" y="0" key="SettingsEditor.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1713536212171" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/org/opentest4j/AssertionFailedError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="2114" selection-start-line="2114" selection-end-line="2114" />
+          <folding>
+            <element signature="e#84081#84082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/jdk/internal/util/ArraysSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="354" selection-start-line="354" selection-end-line="354" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="e#25873#25874#0" expanded="true" />
+            <element signature="e#25921#25922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+          <folding>
+            <element signature="e#192013#192014#0" expanded="true" />
+            <element signature="e#192067#192068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe1/test/ch/ost/oop/ex7/task1/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe1/src/ch/ost/oop/ex7/task1/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex7/task2/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe3/test/ch/ost/oop/ex7/task3/OptimizedBubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe3/src/ch/ost/oop/ex7/task3/OptimizedBubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe2/test/ch/ost/oop/ex7/task2/SortedLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aufgabe2/src/ch/ost/oop/ex7/task2/SortedLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <folding>
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1580#1581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

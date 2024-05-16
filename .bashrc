@@ -127,3 +127,5 @@ _fzf_comprun() {
     *)            fzf "$@" ;;
   esac
 }
+
+alias bat='batcat'

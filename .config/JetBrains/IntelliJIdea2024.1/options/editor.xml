@@ -1,8 +1,0 @@
-<application>
-  <component name="CodeVisionSettings">
-    <option name="defaultPosition" value="Right" />
-  </component>
-  <component name="InlineCompletionOnboarding">
-    <option name="onboardingFinished" value="true" />
-  </component>
-</application>

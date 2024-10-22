@@ -23,6 +23,7 @@ set relativenumber
 syntax on
 set tabstop=4
 set shiftwidth=4
+set hidden
 
 " Set complete options
 set completeopt=menuone,noselect
@@ -37,4 +38,12 @@ let g:ale_hover_cursor = 1
 let g:ale_floating_preview = 1       " Enable floating window previews
 
 nnoremap <C-k> :NERDTreeToggle<CR>
+nnoremap <C-z> <Nop>
+nnoremap <C-y> <C-z>
+
+" Enable hidden files in NERDTree
+let NERDTreeShowHidden=1
+
+" Optional: Customize the ignore list
+let NERDTreeIgnore = ['\~$', '\.pyc$', '\.swp$']
 
